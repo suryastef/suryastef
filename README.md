@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and DevOps stuffs
 - 🌱 I’m currently learning Python and Kubernetes
 - 💞️ I’m looking to collaborate on Odoo module creation
-- 📫 How to reach me on twitter at @suryastef
+- 📫 Reach me on twitter at @suryastef
 
 <!---
 suryastef/suryastef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
