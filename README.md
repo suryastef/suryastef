@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @suryastef
 - 👀 I’m interested in Programming and DevOps stuffs
-- 🌱 I’m currently learning Python and Kubernetes
-- 💞️ I’m looking to collaborate on Odoo module creation
+- 🌱 I’m currently learning Jenkins and Kubernetes
 - 📫 Reach me on twitter at @suryastef
 
 <!---
