@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suryastef
 - 👀 I’m interested in Programming and DevOps stuffs
-- 🌱 I’m currently learning Jenkins and Kubernetes
+- 🌱 I’m currently pursue [DevOps roadmap](https://roadmap.sh/devops)
 - 📫 Reach me on twitter at @suryastef
 
 <!---
