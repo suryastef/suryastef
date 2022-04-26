@@ -1,8 +1,7 @@
 # Hi I'm Surya Stefanus
 
 - 👋 Hi, I’m @suryastef
-- 👀 I’m interested in DevOps stuffs
-- 🌱 I’m currently pursuing [DevOps roadmap](https://roadmap.sh/devops)
+- 🌱 Currently pursuing [DevOps roadmap](https://roadmap.sh/devops)
 - 📫 Reach me on twitter at [@suryastef](https://twitter.com/suryastef)
 
 <!---
