@@ -21,7 +21,6 @@
 ## :computer: Tech Stack:
 
 <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/cncfio/cncfio-icon.svg" alt="cncf" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/>
@@ -48,6 +47,7 @@
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" alt="fluentd" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istioio" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="getpostman" width="40" height="40"/>
