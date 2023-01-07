@@ -48,7 +48,6 @@
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" alt="fluentd" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istioio" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="getpostman" width="40" height="40"/>
@@ -64,10 +63,11 @@
 
 ## :bar_chart: GitHub Stats:
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=suryastef&show_icons=true&border_color=777777&theme=algolia#gh-dark-mode-only"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=suryastef&show_icons=true&border_color=777777&theme=default#gh-light-mode-only"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryastef&layout=compact&border_color=777777&theme=default#gh-light-mode-only"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryastef&layout=compact&border_color=777777&theme=algolia#gh-dark-mode-only"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryastef&show_icons=true&border_color=777777&theme=transparent#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryastef&layout=compact&border_color=777777&theme=transparent#gh-dark-mode-only"/>
+</p>
+
 
 ---
 
