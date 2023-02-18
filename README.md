@@ -1,6 +1,6 @@
 <img src="./banner.jpg" alt="Banner"/>
 
-## :dizzy: About Me:
+## :dizzy: About me:
 
 - :seedling: Currently exploring deeper [DevOps roadmap](https://roadmap.sh/devops)
 - :sunglasses: Read my articles at [suryastef.net](https://suryastef.net)
@@ -9,7 +9,7 @@
 - :airplane: Love to travel to an island or beach
 - :zap: Fun fact that I was born to be a DevOps Engineer
 
-## :bird: Have a Chat with Me at:
+## :bird: Have a chat with me at:
 
 [![Telegram](https://img.shields.io/badge/Telegram-%230077A5.svg?logo=telegram&logoColor=white)](https://t.me/suryastef)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/suryastef#8175)
